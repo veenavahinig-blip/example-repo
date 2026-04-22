@@ -1,0 +1,1 @@
+The GIT life cycle consists of several stages that help manage changes in the source code effectively.
