@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-The GIT life cycle consists of several stages that help manage changes in the source code effectively.
-=======
-The GIT life cycle consists of several stages that help manage changes in the source code effectively.
->>>>>>> 7f4916831a3a3d0fedda59c2c9b9fc24afd6cd8b
+This is my first Git file
